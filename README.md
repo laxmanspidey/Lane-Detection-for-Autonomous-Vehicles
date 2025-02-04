@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lane Lines Detection 
 
 Computer Vision algorithm to detect straight lane lines markings on road using OpenCV Image Processing, Color Masks, Canny Edge Detection and Hough Transform. 
@@ -197,4 +196,3 @@ Check out the resulting video! You can download the video here: [./test_videos_o
 
 =======
 # Lane-Detection-for-Autonomous-Vehicles
->>>>>>> 3be6ae87797e501280303a702d5bfef470a1961c
